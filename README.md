@@ -1,1 +1,1 @@
-# ArtImagesClassification
+# Art Images Classification
